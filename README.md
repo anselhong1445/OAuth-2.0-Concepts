@@ -1,4 +1,4 @@
-# Concepts of OAuth 2.0 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightpink.svg)](https://creativecommons.org/licenses/by/4.0/)
+# Concepts of OAuth 2.0 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightpink.svg)](https://creativecommons.org/licenses/by/4.0/) [![HitCount](http://hits.dwyl.io/anselhong1445/Auth-2.0-Concepts.svg)](http://hits.dwyl.io/anselhong1445/Auth-2.0-Concepts)
 
 This document has been written by translating, outlining, and spicing up the original contents of the public online course **[_WEB2 - OAuth 2.0_](https://opentutorials.org/course/3405)** by **[_opentutorials_](https://opentutorials.org)** in compliance with **[Creative Commons license (By)](https://github.com/anselhong1445/OAuth-2.0-Concepts/blob/master/LICENSE)**.
 
